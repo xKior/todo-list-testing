@@ -160,9 +160,8 @@ jobs:
 
 ---
 
-## 📸 Evidencias (para anexar)
+## 📸 Evidencias
 
-Puedes colocar capturas en esta sección:
 
 ### Ejemplo: Resultados de los Tests
 
